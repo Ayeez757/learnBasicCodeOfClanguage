@@ -1,0 +1,2 @@
+# learnBasicCodeOfClanguage
+大一开了c语言的课程，以后把C语言基础代码都丢上去吧
