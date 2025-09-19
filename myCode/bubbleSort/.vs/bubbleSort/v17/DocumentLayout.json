@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Develop\\clanguage\\myCode\\bubbleSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49596DC4-62D4-40B8-B901-835DD8E617C6}|bubbleSort\\bubbleSort.vcxproj|D:\\Develop\\clanguage\\myCode\\bubbleSort\\bubbleSort\\bubbleSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49596DC4-62D4-40B8-B901-835DD8E617C6}|bubbleSort\\bubbleSort.vcxproj|solutionrelative:bubbleSort\\bubbleSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bubbleSort.c",
+              "DocumentMoniker": "D:\\Develop\\clanguage\\myCode\\bubbleSort\\bubbleSort\\bubbleSort.c",
+              "RelativeDocumentMoniker": "bubbleSort\\bubbleSort.c",
+              "ToolTip": "D:\\Develop\\clanguage\\myCode\\bubbleSort\\bubbleSort\\bubbleSort.c",
+              "RelativeToolTip": "bubbleSort\\bubbleSort.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-19T13:38:36.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
