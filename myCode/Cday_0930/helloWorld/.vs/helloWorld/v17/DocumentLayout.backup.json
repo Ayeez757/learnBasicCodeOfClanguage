@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Develop\\clanguage\\myCode\\Cday1\\helloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CE973E-190C-4AC7-A70E-9A77F749A57C}|helloWorld\\helloWorld.vcxproj|D:\\Develop\\clanguage\\myCode\\Cday1\\helloWorld\\helloWorld\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3CE973E-190C-4AC7-A70E-9A77F749A57C}|helloWorld\\helloWorld.vcxproj|solutionrelative:helloWorld\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorld.c",
+              "DocumentMoniker": "D:\\Develop\\clanguage\\myCode\\Cday1\\helloWorld\\helloWorld\\HelloWorld.c",
+              "RelativeDocumentMoniker": "helloWorld\\HelloWorld.c",
+              "ToolTip": "D:\\Develop\\clanguage\\myCode\\Cday1\\helloWorld\\helloWorld\\HelloWorld.c",
+              "RelativeToolTip": "helloWorld\\HelloWorld.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-19T12:52:59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
