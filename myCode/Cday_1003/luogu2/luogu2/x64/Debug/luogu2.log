@@ -1,0 +1,4 @@
+﻿  luogu2.c
+D:\Develop\clanguage\myCode\Cday_1003\luogu2\luogu2\luogu2.c(14,13): error C2057: 应输入常量表达式
+D:\Develop\clanguage\myCode\Cday_1003\luogu2\luogu2\luogu2.c(14,13): error C2466: 不能分配常量大小为 0 的数组
+D:\Develop\clanguage\myCode\Cday_1003\luogu2\luogu2\luogu2.c(14,9): error C2133: “arr”: 未知的大小
